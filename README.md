@@ -12,3 +12,5 @@ Springer Intelligent Sustainable Systems.
 
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/6th-world-conference.pptx
 https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+Claflin University, Orangeburg, South Carolina, USA 
+https://www.claflin.edu/
