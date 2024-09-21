@@ -17,4 +17,4 @@ https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
 
 ML-Ovarian-Carcinoma.R: Ovarian Microarray data read, robust multi array (RMA) Normalization, neuralnet, Support vector Machine classification, evaluation.
-selected function(neuralnet, colMedians, do.call, compute)
+selected function(neuralnet, colMedians, do.call, compute).
