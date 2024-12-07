@@ -11,7 +11,7 @@ Neural Networks for Predicting Severity of Ovarian Carcinomas, Chopade, R. prese
 [6th World Conference on Smart Trends in Systems, Security, and Sustainability 2 February, 2022, Neural Networks for predicting severity of ovarian carcinoma by Pawar S.D, R. Chopade and A. Stanam,](https://worlds4.co.uk/gallery.html)†
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 https://campuspress.yale.edu/shrikantpawar/files/2024/05/6th-world-conference.pptx
-https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
+Video presentation: https://www.youtube.com/watch?v=Y6skvhHVR2w&ab_channel=ShrikantPawar
 Claflin University, Orangeburg, South Carolina, United States of America (USA). 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
