@@ -1,5 +1,5 @@
 # Neural-Networks-for-Ovarian-Carcinomas collaboration with Dr. Lahiri, Sunway University, Malaysia. https://scholar.google.co.in/citations?user=cZaBPOoAAAAJ&hl=en
-[R: curatedOvarianData, tidyverse, boot, plyr, e1071]. Artificial intelligence (AI). December, 9, 2024.
+[R: curatedOvarianData, tidyverse, boot, plyr, e1071]. Artificial intelligence (AI). Date created/updated: December, 9, 2024.
 [Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-64f1ff2e-dfef-4d26-82be-34353a6dbd79)
 <img width="215" alt="World4" src="https://github.com/spawar2/Neural-Networks-for-Ovarian-Carcinomas/assets/25118302/18afbe0e-ff46-4194-ac3a-c7c41380647f">
 <img width="161" alt="Neural network" src="https://github.com/spawar2/Neural-Networks-for-Ovarian-Carcinomas/assets/25118302/3f6c2d77-4f98-48b7-9c99-99f069ea819d">
