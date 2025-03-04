@@ -3,7 +3,7 @@
 [Poster Link:](https://www.claflin-computation.com/lab-journey?pgid=ktmii98q-64f1ff2e-dfef-4d26-82be-34353a6dbd79)
 <img width="215" alt="World4" src="https://github.com/spawar2/Neural-Networks-for-Ovarian-Carcinomas/assets/25118302/18afbe0e-ff46-4194-ac3a-c7c41380647f">
 <img width="161" alt="Neural network" src="https://github.com/spawar2/Neural-Networks-for-Ovarian-Carcinomas/assets/25118302/3f6c2d77-4f98-48b7-9c99-99f069ea819d">
-
+Digital Object Identifier (DOI)=Online International Standard Book Number (ISBN).
 [Paper:](https://link.springer.com/chapter/10.1007/978-981-19-7660-5_7#citeas)
 Springer Intelligent Sustainable Systems.
 <img width="298" alt="Screenshot 2023-05-17 at 10 32 22 AM" src="https://github.com/spawar2/Neural-Networks-for-Ovarian-Carcinomas/assets/25118302/a78456f0-7dbb-43b5-8505-3febe9da7e91">
