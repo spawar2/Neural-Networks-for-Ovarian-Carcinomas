@@ -20,3 +20,4 @@ ML-Ovarian-Carcinoma.R: Ovarian Microarray data read, robust multi array (RMA) N
 selected function(neuralnet, colMedians, do.call, compute).
 
 Testing: table(testing$V2,pred_test) Prediction_test alive dead alive 214 5 dead 31 11 ((214+11)/(nrow(testing)))*100 [1] 86.2069.
+Associated Press Style
